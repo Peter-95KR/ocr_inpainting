@@ -1,0 +1,12 @@
+{
+  "total": 1,
+  "successful": 0,
+  "failed": 1,
+  "details": [
+    {
+      "success": false,
+      "imagePath": "images/input/인스타영상.jpg",
+      "error": "Google Vision OCR 실패: Request failed with status code 400"
+    }
+  ]
+}
